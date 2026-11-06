@@ -1,11 +1,11 @@
 {
   "status": "available",
-  "version": "1.0.3",
-  "versionCode": 10004,
-  "apkUrl": "https://github.com/phalkao/foodsaas-apk/releases/download/v1.0.3/FoodSaaS-1.0.3.apk",
-  "sizeBytes": 4527909,
-  "sha256": "190fe1294321024bf1ed845678937eabcc27ed07c1507d31696d07e36d1774da",
+  "version": "1.0.4",
+  "versionCode": 10005,
+  "apkUrl": "https://github.com/phalkao/foodsaas-apk/releases/download/v1.0.4/FoodSaaS-1.0.4.apk",
+  "sizeBytes": 4527901,
+  "sha256": "112fb67588baad05ad4cbbe50a1dba8da885f8434e4858c718a2ccfc060f36a8",
   "minAndroid": "8.0",
-  "releasedAt": "2026-11-06T22:23:01.458715+00:00",
+  "releasedAt": "2026-11-06T22:28:28.580559+00:00",
   "changelog": []
 }
